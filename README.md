@@ -4,5 +4,6 @@ This straightforward exercise demonstrates the application of spatial join opera
 1. How to use the spatial join operation (geopandas.sjoin())
 2. how to use the  merge operation, pd.merge()
 3. how to Map of tree density by district
+4. how to visualize the  tree density by district map using the choropleths equal interval and quantile classification scheme
 
 
