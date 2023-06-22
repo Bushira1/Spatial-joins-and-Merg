@@ -1,4 +1,4 @@
-# Spatial-joins,Merg and Visualization using choropleths
+# Spatial_joins,Merg, and Visualization using choropleths
 This straightforward exercise demonstrates the application of spatial join operation for determining the district where each bike station is situated:
 
 1. How to use the spatial join operation (geopandas.sjoin())
